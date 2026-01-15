@@ -247,6 +247,11 @@ body {
     margin: 0 auto 20px;
 }
 
+.step-icon {
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+
 .step h3 {
     font-size: 1.3rem;
     margin-bottom: 15px;
@@ -256,6 +261,31 @@ body {
 .step p {
     color: var(--text-light);
     line-height: 1.8;
+    margin-bottom: 15px;
+}
+
+.step-detail {
+    font-size: 0.9rem;
+    color: var(--primary);
+    font-weight: 600;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+.how-it-works-footer {
+    margin-top: 60px;
+    text-align: center;
+    padding: 40px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.highlight-text {
+    font-size: 1.2rem;
+    color: var(--text);
+    line-height: 1.8;
+    font-weight: 500;
 }
 
 .step-arrow {
