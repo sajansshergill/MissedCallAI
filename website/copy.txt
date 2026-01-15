@@ -1,0 +1,149 @@
+# Website Copy for Carrd/Framer
+
+Use this copy to build your one-page website on Carrd or Framer.
+
+---
+
+## HERO SECTION
+
+**Headline:**
+Never Miss Another Call. Ever.
+
+**Subheadline:**
+MissedCallAI answers, qualifies, books, and follows up — automatically. 24/7.
+
+**CTA Buttons:**
+- "See It In Action" (links to demo video)
+- "Book a Demo" (links to Calendly)
+
+**Stats:**
+- 24/7 - Always Available
+- 100% - No Missed Calls
+- $0 - Lost Revenue
+
+---
+
+## PROBLEM SECTION
+
+**Headline:**
+Every Missed Call is Lost Revenue
+
+**Cards:**
+
+1. **After-Hours Calls**
+   Customers call when you're closed. They leave voicemails that never get returned.
+
+2. **Lost Opportunities**
+   Each missed call is a potential $500-$2000 job walking out the door.
+
+3. **Frustrated Customers**
+   They call your competitor instead. You lose the job and the customer forever.
+
+---
+
+## DEMO SECTION
+
+**Headline:**
+See It In Action
+
+**Subheadline:**
+Watch how MissedCallAI handles a real call
+
+**Video:**
+[Embed your 2-3 minute VSL here]
+
+---
+
+## HOW IT WORKS
+
+**Headline:**
+How It Works
+
+**Steps:**
+
+1. **Call Comes In**
+   Customer calls your business number, even after hours.
+
+2. **AI Answers**
+   MissedCallAI greets them professionally and asks qualifying questions.
+
+3. **Job Booked**
+   AI collects details and books the appointment automatically.
+
+4. **You Get Notified**
+   You receive SMS with lead details. Customer gets confirmation text.
+
+---
+
+## USE CASES
+
+**Headline:**
+Perfect For
+
+**Cards:**
+
+1. **Plumbers** 🔧
+   Emergency calls at 2 AM? MissedCallAI handles them all.
+
+2. **HVAC** ❄️
+   AC breaks on a hot weekend? Never miss a call again.
+
+3. **Electricians** ⚡
+   Electrical emergencies can't wait. Your AI receptionist doesn't either.
+
+4. **Tow Trucks** 🚛
+   24/7 roadside assistance calls answered instantly.
+
+5. **Septic Services** 🚽
+   Backed up septic? AI books the job while you sleep.
+
+6. **Cleaning Services** 🧹
+   Schedule bookings even when your office is closed.
+
+---
+
+## FEATURES
+
+**Headline:**
+Everything You Need
+
+**Features:**
+
+- ✅ 24/7 Availability - Never miss a call, even at 3 AM on a Sunday.
+- ✅ Smart Qualification - AI asks the right questions to qualify every lead.
+- ✅ Auto-Booking - Appointments booked directly into your calendar.
+- ✅ SMS Confirmations - Customers get instant text confirmations.
+- ✅ Lead Tracking - All leads automatically logged in Google Sheets.
+- ✅ Owner Notifications - Get SMS alerts for every new lead.
+
+---
+
+## CTA SECTION
+
+**Headline:**
+Ready to Stop Missing Calls?
+
+**Subheadline:**
+Book a 15-minute demo and see how MissedCallAI can transform your business.
+
+**Calendly Embed:**
+[Add your Calendly embed code here]
+
+---
+
+## FOOTER
+
+© 2024 MissedCallAI. All rights reserved.
+
+Built for local service businesses who refuse to miss opportunities.
+
+---
+
+## DESIGN NOTES
+
+- Use a modern, clean design
+- Primary color: Blue (#2563eb)
+- Secondary color: Green (#10b981)
+- Font: Inter or similar sans-serif
+- Keep it simple and conversion-focused
+- Mobile-responsive is essential

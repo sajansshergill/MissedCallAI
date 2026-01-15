@@ -1,0 +1,50 @@
+# MissedCallAI - Git Ignore
+
+# API Keys and Secrets
+config.js
+service-account.json
+.env
+*.key
+*.pem
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Build files
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Test files
+test-results/
+coverage/
+
+# Deployment
+.vercel
+.netlify
+.railway

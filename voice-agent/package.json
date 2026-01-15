@@ -1,0 +1,31 @@
+{
+  "name": "missedcallai-webhook",
+  "version": "1.0.0",
+  "description": "MissedCallAI - AI Voice Receptionist Webhook",
+  "main": "webhook.js",
+  "scripts": {
+    "start": "node webhook.js",
+    "dev": "nodemon webhook.js"
+  },
+  "keywords": [
+    "ai",
+    "voice",
+    "receptionist",
+    "twilio",
+    "openai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "twilio": "^4.19.0",
+    "openai": "^4.20.0",
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
